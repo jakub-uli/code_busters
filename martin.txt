@@ -4,14 +4,4 @@ Some text.
 
 Some tests. And another test.
 
-I can not compile becouse..
-
-mingw32-make[3]: *** Deleting file 'src_test/Kernel/libKernel.a'
-mingw32-make[3]: unlink: src_test/Kernel/libKernel.a: Permission denied
-D:/workspace/KV4_WPL25_400V/cmake/../../Compiler/gcc-win64/10.2.0/bin/ar.exe: unable to rename 'libKernel.a'; reason: File exists
-mingw32-make[3]: *** [src_test/Kernel/CMakeFiles/Kernel.dir/build.make:562: src_test/Kernel/libKernel.a] Error 1
-mingw32-make[2]: *** [CMakeFiles/Makefile2:443: src_test/Kernel/CMakeFiles/Kernel.dir/all] Error 2
-mingw32-make[1]: *** [Makefile:91: all] Error 2
-mingw32-make: *** [Makefile:27: build] Error 2
-
- *  The terminal process "powershell.exe -Command mingw32-make.exe BUILD_TYPE=debug BUILDVARIANT=UnitTest" terminated with exit code: 1. 
+no issues any more
