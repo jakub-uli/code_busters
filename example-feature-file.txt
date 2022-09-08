@@ -1,1 +1,2 @@
 example-feature-text
+New text 1
